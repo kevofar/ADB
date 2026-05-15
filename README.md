@@ -2,7 +2,7 @@
 
 This repository contains the complete SQL Server 2022 implementation of the Fitness Center Management System, extended with advanced database features as part of the Advanced Database Systems course (InSy3042).
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|-------------|
@@ -14,13 +14,13 @@ This repository contains the complete SQL Server 2022 implementation of the Fitn
 | `06_security.sql` | Logins, users, roles (`ManagerRole`, `TrainerRole`, `MemberRole`), column‑level `DENY` on `Salary`. |
 | `07_backup_recovery.sql` | Full, differential, and transaction log backups with restore sequence. |
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open **SQL Server Management Studio (SSMS)**.
 2. Run the scripts **in order** from `01_create_tables.sql` to `07_backup_recovery.sql`.
 3. All advanced features will be installed and tested automatically.
 
-## 🛠️ Requirements
+##  Requirements
 
 - SQL Server 2022 (or later)
 - SQL Server Management Studio (SSMS)
@@ -29,20 +29,10 @@ This repository contains the complete SQL Server 2022 implementation of the Fitn
 
 Full project report (proposal, final report, presentation slides) available separately.
 
-## 👥 Group 6 – Hawassa University IoT Campus
+## 👥 Group Project – Hawassa University IoT Campus
 
-- Ermiyas Sisay
-- Estubdink Getachew
-- Fanuel Berhane
-- Fikeryohannes Wase
-- Melat Demtse
-- Mitiku Alemayehu
-- Moges Mengistu
-- Robin Mulugeta
-
-## 📅 Submission Date
-
-May 12, 2026
+## 📅 Submitted Date
+May 15, 2026 G.C.
 
 ## 🔗 References
 
