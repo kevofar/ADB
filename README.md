@@ -19,23 +19,13 @@ This repository contains the complete SQL Server 2022 implementation of the Fitn
 1. Open **SQL Server Management Studio (SSMS)**.
 2. Run the scripts **in order** from `01_create_tables.sql` to `07_backup_recovery.sql`.
 3. All advanced features will be installed and tested automatically.
-
+--ALL .sql FILES ARE FOUNT INSIDE "Queries."
 ##  Requirements
 
 - SQL Server 2022 (or later)
 - SQL Server Management Studio (SSMS)
 
-## 📄 Documentation
-
-Full project report (proposal, final report, presentation slides) available separately.
-
 ## 👥 Group Project – Hawassa University IoT Campus
 
 ## 📅 Submitted Date
 May 15, 2026 G.C.
-
-## 🔗 References
-
-- Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of Database Systems* (7th ed.). Pearson.
-- Microsoft SQL Server Documentation (2024). *Backup and Restore*.
-- Course guidelines by Instructor Daniel Tesfy.
